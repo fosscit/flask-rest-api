@@ -1,0 +1,14 @@
+{
+    "foo": {
+        "name": "foo",
+        "rolde": "superuser"
+    },
+    "bar": {
+        "name": "bar",
+        "rolde": "admin"
+    },
+    "jon": {
+        "name": "jon",
+        "rolde": "network-controller"
+    }
+}
